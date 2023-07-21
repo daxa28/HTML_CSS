@@ -14,4 +14,5 @@
 - многое другое… 
 
 
-![](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.1.png)
+![screenshot_page1(1)_width1440](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.1.png)
+![screenshot_page1(2)_width1440](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.2.png)
