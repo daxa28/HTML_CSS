@@ -14,14 +14,17 @@
 - многое другое… 
 
 #### *screenshot_page1_width1440px(1)*
-![screenshot_1_1_1](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.1.png)
+<img src="./photo_for_readme/1.1.1.png" width="600">
+
 #### *screenshot_page1_width1440px(2)*
-![screenshot_1_1_2](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.2.png)
+<img src="./photo_for_readme/1.1.1.png" width="600">
+
 
 #### *screenshot_page1_width425px(1)*
-![screenshot_1_2_1](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.2.1.png)
+<img src="./photo_for_readme/1.2.1.png" width="300">
+
 #### *screenshot_page1_width425px(2)*
-![screenshot_1_2_2](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.2.2.png)
+<img src="./photo_for_readme/1.2.2.png" width="300">
+
 #### *screenshot_page1_width425px(3)*
-![screenshot_1_2_3](https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.2.3.png)
-<img src="./photo_for_readme/1.2.3.png" width="500">
+<img src="./photo_for_readme/1.2.3.png" width="300">
