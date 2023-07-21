@@ -19,7 +19,7 @@
 <img src="./photo_for_readme/1.1.1.png" width="600">
 
 #### *screenshot_page1_width1440px(2)*
-<img src="./photo_for_readme/1.1.1.png" width="600">
+<img src="./photo_for_readme/1.1.2.png" width="600">
 
 
 #### *screenshot_page1_width425px(1)*
@@ -38,7 +38,7 @@
 <img src="./photo_for_readme/2.1.1.png" width="600">
 
 #### *screenshot_page1_width1440px(2)*
-<img src="./photo_for_readme/2.1.1.png" width="600">
+<img src="./photo_for_readme/2.1.2.png" width="600">
 
 
 #### *screenshot_page1_width425px(1)*
