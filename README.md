@@ -12,4 +12,4 @@
 - подвал,
 - многое другое…
 
-![png] (https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.1.png)
+![] (https://github.com/daxa28/HTML_CSS/blob/main/photo_for_readme/1.1.1.png)
